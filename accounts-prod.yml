@@ -1,0 +1,11 @@
+build:
+  version: "1.0.0"
+
+accounts:
+  message: "Welcome to the production profile"
+  contactDetails:
+    name: "production manager"
+    email: "tushar@prod.com"
+  onCallSupport:
+    -(+91)7040301000
+    -(+91)8178981202

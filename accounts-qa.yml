@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to the qa profile"
+  contactDetails:
+    name: "qa manager"
+    email: "manager@qa.com"
+  onCallSupport:
+    -(+91)7030405000
+    -(+91)9766563990

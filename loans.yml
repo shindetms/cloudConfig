@@ -1,0 +1,11 @@
+build:
+  version: "3.0"  # This will be overridden by loans-qa.yml
+
+accounts:
+  message: "Welcome to the jungle"
+  contactDetails:
+    name: "tushar salukne"
+    email: "tushar@gmail.com"
+  onCallSupport:
+    - "(+91)7030405000"
+    - "(+91)9756137485"
