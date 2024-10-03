@@ -2,7 +2,7 @@ build:
   version: "1.0.0.0"
 
 accounts:
-  message: "Welcome to the production profile"
+  message: "Welcome to the prod profile"
   contactDetails:
     name: "production manager"
     email: "tushar@prod.com"
